@@ -3,9 +3,10 @@
 Aspiring software developer focused on C and low-level programming.
 Currently working through the 42 School curriculum.
 
-## 🔭 Currently
+## 🔭 Progress
 
-- Rebuilding part of the C standard library with **Libft**
+- **Circle 0** - [Libft](https://github.com/Neloryx/libft) completed **100/100** ⭐
+- **Circle 1** - ft_printf 🚧 in progress
 
 ## 🛠️ Tech stack
 
@@ -16,9 +17,10 @@ Currently working through the 42 School curriculum.
 
 ## 📌 42 projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Libft](https://github.com/Neloryx/libft) | Custom C library reimplementing `libc` functions and additional utilities | 🚧 In progress |
+| Circle | Project | Description | Result |
+|--------|---------|-------------|--------|
+| 0 | [Libft](https://github.com/Neloryx/libft) | Custom C library reimplementing `libc` functions and additional utilities | 100/100 ⭐ |
+| 1 | ft_printf | Custom implementation of the C `printf` function | 🚧 In progress |
 
 More projects will be added as I progress through the curriculum.
 
