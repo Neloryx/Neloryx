@@ -6,7 +6,7 @@ Currently working through the 42 School curriculum.
 ## 🔭 Progress
 
 - **Circle 0** - [Libft](https://github.com/Neloryx/libft) completed **100/100** ⭐
-- **Circle 1** - ft_printf 🚧 in progress
+- **Circle 1** - [ft_printf](https://github.com/Neloryx/ft_printf) completed **100/100** ⭐
 
 ## 🛠️ Tech stack
 
@@ -20,7 +20,7 @@ Currently working through the 42 School curriculum.
 | Circle | Project | Description | Result |
 |--------|---------|-------------|--------|
 | 0 | [Libft](https://github.com/Neloryx/libft) | Custom C library reimplementing `libc` functions and additional utilities | 100/100 ⭐ |
-| 1 | ft_printf | Custom implementation of the C `printf` function | 🚧 In progress |
+| 1 | [ft_printf](https://github.com/Neloryx/ft_printf) | Custom implementation of the C `printf` function | 100/100 ⭐ |
 
 More projects will be added as I progress through the curriculum.
 
