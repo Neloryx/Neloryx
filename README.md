@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Neloryx 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=200&section=header&text=Neloryx&fontSize=60&fontColor=ffffff&desc=C%20%C2%B7%20Systems%20%C2%B7%20Python&descSize=20&animation=fadeIn" alt="Neloryx banner" />
+</p>
 
 <p align="center">
   Student at <a href="https://42.fr">42</a> · C & systems programming · learning Python<br>
