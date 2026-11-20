@@ -51,13 +51,6 @@
 - Reading man pages and documentation before asking
 - Writing code that others can read
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Neloryx&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloryx&layout=compact&theme=transparent" />
-</p>
-
 ## 📫 Contact
 
 - GitHub: open an issue or a discussion on any of my repositories
