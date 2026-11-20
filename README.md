@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=200&section=header&text=Neloryx&fontSize=60&fontColor=ffffff&desc=C%20%C2%B7%20Systems%20%C2%B7%20Python&descSize=20&animation=fadeIn" alt="Neloryx banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=250&section=header&text=Neloryx&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=C%20%C2%B7%20Systems%20%C2%B7%20Python&descSize=20&descAlignY=60&animation=fadeIn" alt="Neloryx banner" />
 </p>
 
 <p align="center">
