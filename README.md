@@ -1,39 +1,55 @@
-# Neloryx 👋
+<h1 align="center">Hello, I'm Neloryx 👋</h1>
 
-**C** and **low-level programming**, now diving into **Python**. Currently building my way through the [42](https://42.fr) curriculum.
+<p align="center">
+  Student at <a href="https://42.fr">42</a> · C & systems programming · learning Python<br>
+  I like understanding how things work under the hood.
+</p>
 
-## 🚧 Currently working on
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,bash,git,linux,debian,vscode&theme=dark" alt="Tech stack" />
+  </a>
+</p>
 
-- Python Modules
+---
+
+## 🚧 Currently
+
+- 🐍 Working through the 42 Python modules
+- 🔍 Strengthening my fundamentals: memory, algorithms, clean code
 
 ## 📌 42 projects
 
-| Circle | Project | Description | Result |
-|--------|---------|-------------|--------|
-| 0 | [Libft](https://github.com/Neloryx/libft) | Custom C library reimplementing `libc` functions and extra utilities | 100/100 ⭐ |
-| 1 | [ft_printf](https://github.com/Neloryx/ft_printf) | Custom `printf` with variadic functions (`cspdiuxX%`) | 100/100 ⭐ |
-| 1 | [get_next_line](https://github.com/Neloryx/get_next_line) | Reads a file descriptor line by line (mandatory + multi-fd bonus) | 125/100 ⭐ |
-| 1 | [push_swap](https://github.com/Neloryx/push_swap) | Sorts a stack with a limited set of operations, minimizing moves (team project) | 100/100 ⭐ |
+### Circle 0–1 · C fundamentals
 
-More projects will be added as I progress through the curriculum.
+| Project | What it does | Skills | Score |
+|---|---|---|---|
+| [**Libft**](https://github.com/Neloryx/libft) | Reimplementation of `libc` + extra utilities | Pointers, memory, linked lists | 100/100 |
+| [**ft_printf**](https://github.com/Neloryx/ft_printf) | Custom `printf` (`cspdiuxX%`) | Variadic functions, formatting | 100/100 |
+| [**get_next_line**](https://github.com/Neloryx/get_next_line) | Reads a file descriptor line by line | Static buffers, multi-fd (bonus) | 125/100 |
+| [**push_swap**](https://github.com/Neloryx/push_swap) | Sorts a stack with a minimal number of operations *(team project)* | Algorithms, complexity | 100/100 |
 
-## 🛠️ Tech stack
+### Circle 2 · Python & systems
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Project | What it does | Skills | Status |
+|---|---|---|---|
+| **Python Modules 00 → 10** | Series of modules going from Python basics to more advanced concepts | Python, typing, `flake8`, `mypy` | 🚧 In progress |
+| **A-Maze-ing** | Maze generator and solver | Algorithms, graph traversal, Python | 🚧 Coming soon |
+| **Born2beroot** | Secure Linux server set up in a virtual machine | System administration, SSH, firewall, users & permissions | 🚧 Coming soon |
 
-## 🌱 What I'm practicing
+## 🌱 What I care about
 
-- Memory management, pointers and leak-free code (Valgrind)
-- File descriptors, static buffers and variadic functions
-- Algorithmic thinking and complexity (sorting with constraints)
-- Python fundamentals
-- Writing clean code that follows the Norm
-- Reading documentation and man pages
+- Leak-free code (Valgrind) and strict adherence to the Norm
+- Algorithmic thinking: sorting under constraints, complexity
+- Reading man pages and documentation before asking
+- Writing code that others can read
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Neloryx&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neloryx&layout=compact&theme=transparent" />
+</p>
 
 ## 📫 Contact
 
