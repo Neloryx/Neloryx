@@ -44,9 +44,10 @@
 | **A-Maze-ing** | Maze generator and solver | Algorithms, graph traversal, Python | 🚧 Coming soon |
 | **Born2beroot** | Secure Linux server set up in a virtual machine | System administration, SSH, firewall, users & permissions | 🚧 Coming soon |
 
-## 📫 Contact
+## 📫 Let's connect
 
-- GitHub: open an issue or a discussion on any of my repositories
+- 🏫 42 intra: `thdeglos`
+- 💬 Open an issue or a discussion on any of my repositories
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=100&section=footer" alt="" />
