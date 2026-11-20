@@ -61,3 +61,7 @@
 ## 📫 Contact
 
 - GitHub: open an issue or a discussion on any of my repositories
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=100&section=footer" alt="" />
+</p>
