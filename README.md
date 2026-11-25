@@ -40,7 +40,7 @@
 
 | Project | What it does | Skills | Status |
 |---|---|---|:---:|
-| **Python Modules 00 → 10** | Series of modules going from Python basics to more advanced concepts | Python, typing, `flake8`, `mypy` | 🚧 In progress |
+| [**Python Modules 00 → 10**](https://github.com/Neloryx/Python_Module00) | Series of modules going from Python basics to more advanced concepts | Python, typing, `flake8`, `mypy` | 🚧 In progress |
 | **A-Maze-ing** | Maze generator and solver | Algorithms, graph traversal, Python | 🚧 Coming soon |
 | **Born2beroot** | Secure Linux server set up in a virtual machine | System administration, SSH, firewall, users & permissions | 🚧 Coming soon |
 
